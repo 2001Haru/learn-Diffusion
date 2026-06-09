@@ -42,15 +42,21 @@
 
 # 少步生成专题
 
-[第十一章 Unified Continuous Generative Models](Chapter2_01.ipynb)
+[第一章 Unified Continuous Generative Models](Chapter2_01.ipynb)
 
-[第十二章 一步生成的 Meanflow](Chapter2_02.ipynb)
+[第二章 一步生成的 Meanflow](Chapter2_02.ipynb)
 
-[第十三章 Improved Meanflow 与 Euler Meanflow](Chapter2_03.ipynb)
+[第三章 Improved Meanflow 与 Euler Meanflow](Chapter2_03.ipynb)
 
-[第十四章 渐进展开的 Shortcut Models](Chapter2_04.ipynb)
+[第四章 渐进展开的 Shortcut Models](Chapter2_04.ipynb)
 
-[第十五章 理解少步生成与 Alphaflow](Chapter2_05.ipynb)
+[第五章 理解少步生成与 Alphaflow](Chapter2_05.ipynb)
+
+# 数据集蒸馏专题
+
+[第一章 Dataset Distillation 与双层优化](Chapter3_01.ipynb)
+
+[第二章 Gradient Matching](Chapter3_02.ipynb)
 
 # 附录
 
