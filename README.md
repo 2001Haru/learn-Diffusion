@@ -56,7 +56,10 @@
 
 [第一章 Dataset Distillation 与双层优化](Chapter3_01.ipynb)
 
-[第二章 Gradient Matching](Chapter3_02.ipynb)
+[第二章 Gradient Matching 与 Distribution Matching](Chapter3_02.ipynb)
+
+[第三章 Matching Training Trajectories](Chapter3_03.ipynb)
+
 
 # 附录
 
