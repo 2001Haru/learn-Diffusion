@@ -58,7 +58,9 @@
 
 [第二章 Gradient Matching 与 Distribution Matching](Chapter3_02.ipynb)
 
-[第三章 Matching Training Trajectories](Chapter3_03.ipynb)
+[第三章 Matching Training Trajectories 与计算优化](Chapter3_03.ipynb)
+
+[第四章 Difficulty-Aligned Trajectory Matching](Chapter3_04.ipynb)
 
 
 # 附录
