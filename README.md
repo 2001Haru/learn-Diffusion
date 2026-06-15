@@ -60,7 +60,9 @@
 
 [第三章 Matching Training Trajectories 与计算优化](Chapter3_03.ipynb)
 
-[第四章 Difficulty-Aligned Trajectory Matching](Chapter3_04.ipynb)
+[第四章 MTT 的采样优化与反演式的蒸馏](Chapter3_04.ipynb)
+
+[第五章 拼接式蒸馏与图像生成式蒸馏](Chapter3_05.ipynb)
 
 
 # 附录
