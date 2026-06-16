@@ -34,7 +34,7 @@
 
 [第七章 Flow Matching 配合 DiT 的实现与改进](Chapter1_07.ipynb)
 
-[第八章 Consistency Models 与加速生成](Chapter1_08.ipynb)
+[第八章 Consistency Models 与少步生成](Chapter1_08.ipynb)
 
 [第九章 Visual Autoregressive Models](Chapter1_09.ipynb)
 
@@ -50,7 +50,7 @@
 
 [第四章 渐进展开的 Shortcut Models](Chapter2_04.ipynb)
 
-[第五章 理解少步生成与 Alphaflow](Chapter2_05.ipynb)
+[第五章 理解少步生成与 Riemannian Meanflow](Chapter2_05.ipynb)
 
 # 数据集蒸馏专题
 
@@ -62,7 +62,11 @@
 
 [第四章 MTT 的采样优化与反演式的蒸馏](Chapter3_04.ipynb)
 
-[第五章 拼接式蒸馏与图像生成式蒸馏](Chapter3_05.ipynb)
+[第五章 拼接式蒸馏与基于 Diffusion 的蒸馏](Chapter3_05.ipynb)
+
+[第六章 基于生成式模型的数据集蒸馏](Chapter3_06.ipynb)
+
+[第七章 Influence-Guided Diffusion](Chapter3_07.ipynb)
 
 
 # 附录
