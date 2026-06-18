@@ -64,9 +64,11 @@
 
 [第五章 拼接式蒸馏与基于 Diffusion 的蒸馏](Chapter3_05.ipynb)
 
-[第六章 基于生成式模型的数据集蒸馏](Chapter3_06.ipynb)
+[第六章 潜空间蒸馏与 Prompt 蒸馏](Chapter3_06.ipynb)
 
-[第七章 Influence-Guided Diffusion](Chapter3_07.ipynb)
+[第七章 潜空间内梯度匹配与基于 Guidance 的数据集蒸馏](Chapter3_07.ipynb)
+
+[第八章 CoDA](Chapter3_08.ipynb.ipynb)
 
 
 # 附录
