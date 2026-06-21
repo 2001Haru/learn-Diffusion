@@ -68,7 +68,9 @@
 
 [第七章 潜空间内梯度匹配与基于 Guidance 的数据集蒸馏](Chapter3_07.ipynb)
 
-[第八章 CoDA](Chapter3_08.ipynb.ipynb)
+[第八章 使用 HDBSCAN 聚类的 CoDA](Chapter3_08.ipynb.ipynb)
+
+[第九章 Distribution Matching Distillation](Chapter3_09.ipynb.ipynb)
 
 
 # 附录
